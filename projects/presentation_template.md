@@ -5,13 +5,13 @@ title: Site to Site | Presentation
 menu: project
 project: project_name_here
 ---
-## This is a section heading
+## Object-Oriented Office (OOO)
 
 ### This is large text followed by a large image.
 
 ![Image](http://placehold.it/1280x600)
 
-This is a small text caption to explain that the image above has been scaled to fit the page.
+True innovation in architecture arises not from the hours spent hunched over a desk, but rather in the moments of shared respite -- the smoke breaks, coffee runs, and shared distractions we relish to reconnect and retain our sanity. This is nothing new to architecture -- office design has been slowly moving away from the language of corner offices and the cubicles to foster spaces of chance encounters and impromptu social gatherings.
 
 >	"This is a quote that will be red and italic."
 	-This is the [source](https://www.google.com/)
